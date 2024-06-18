@@ -59,3 +59,9 @@ button {
     font-weight: bold;
     color: #02C3BD;
 }
+
+#clickCount {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #777;
+}
